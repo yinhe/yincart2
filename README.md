@@ -1,6 +1,6 @@
 ## Yincart  2.0.0 Beta 
 [Offical WebSite](http://yincart.com)
-core support by mincms(http://mincms.com).
+Core drivered by [mincms](http://mincms.com).
 ## Technology
 * [Yii 2](http://github.com/yiisoft/yii2)
 * [BootStrap 3](http://getbootstrap.com/)
@@ -50,8 +50,8 @@ httpd-vhosts `yourdomain` is your custom domain
 </VirtualHost>
 ```
 
-### step 4 [install mincms]
-visite `http://yourdomain` it will show default page. there is install link.if your didn't installed mincms before.
+### step 4 [install yincart]
+visite `http://yourdomain` it will show default page. there is install link.if your didn't installed yincart before.
 
 backend link `http://yourdomain/admin.html` 
 
