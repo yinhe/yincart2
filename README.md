@@ -9,6 +9,7 @@ packages is from  [mincms](https://github.com/mincms/mincms).
 ## REQUIREMENTS
 * PHP_VERSION 5.3.11 + 
 * Apache Rewrite  
+
 ## install   
 
 ### step 1 [Download Composer] 
