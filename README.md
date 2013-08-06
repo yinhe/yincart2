@@ -1,5 +1,6 @@
-## MinCMS  2.0.1 Beta 1
-[Offical WebSite](http://mincms.com)
+## Yincart  2.0.0 Beta 
+[Offical WebSite](http://yincart.com)
+core support by mincms(http://mincms.com).
 ## Technology
 * [Yii 2](http://github.com/yiisoft/yii2)
 * [BootStrap 3](http://getbootstrap.com/)
@@ -90,17 +91,17 @@ Fair License.
 
 MinCMS is free for which website footer contain use php output the code `echo copyRight()`,
 
-or contian `PowerBy <a href='http://mincms.com'>MinCMS</a>` infomation.
+or contian `PowerBy <a href='http://yincart.com'>Yincart</a>` infomation.
 
 If you want remove footer PowerBy Infomation.
 
-Get a License for your website from our [offical website](http://mincms.com).
+Get a License for your website from our [offical website](http://yincart.com).
 
 
 ## Connect US 
 ```
-QQ group：40933125
-Email: mincms@outlook.com
+QQ group：227575466
+Email: yhxxlm@gmail.com
 ```
  
 
