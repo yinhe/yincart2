@@ -1,0 +1,9 @@
+Thumbs.db 
+.DS_Store
+.svn
+ 
+/packages/vendor
+
+/packages/runtime
+
+/packages/composer.lock

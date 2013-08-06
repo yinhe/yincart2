@@ -1,0 +1,30 @@
+.footer {
+text-align: center;
+padding: 30px 0;
+margin-top: 70px;
+border-top: 1px solid #e5e5e5;
+background-color: #f5f5f5;
+}
+.footer p {
+margin-bottom: 0;
+color: #777;
+}
+.footer-links {
+margin: 10px 0;
+}
+p {
+margin: 0 0 10px;
+}
+.bs-docs-nav .pull-right .span{
+	color: #fff;
+	position: absolute;
+	bottom: 0px;
+	right: 0px;
+}
+.bs-docs-nav .pull-right .span a{
+	color: #fff;
+	margin-left:15px;
+}
+.bs-docs-nav .container{
+	position:relative
+}
